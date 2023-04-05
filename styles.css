@@ -1,5 +1,27 @@
 p{
     color: green;
-    padding: 30px;
+    padding: 20px;
 
+}
+#main-page{
+    color: brown;
+    background-color: aqua;
+    padding: 20px;
+}
+.my-content{
+    color: rgb(3, 3, 38);
+    background-color: rgb(63, 63, 159);
+    padding: 20px;
+}
+.backgroud-default{
+    background-color: rgb(85, 30, 30);
+}
+.hexa{
+    background-color: blueviolet;
+}
+.rgb {
+    background-color: rgb(5, 34, 24);
+}
+.color-name {
+    background-color: rgb(106, 20, 20);
 }
